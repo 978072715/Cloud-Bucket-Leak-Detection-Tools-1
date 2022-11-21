@@ -19,8 +19,8 @@ AWS_ACCESS_KEY = ""
 AWS_SECRET_KEY = ""
 
 # tencent
-tencent_cam_id = ""
-tencent_cam_key = ""
+tencent_cam_id = "AKIDviLrfyDI9qWFlAOhIMOCqG5wkT7lO2bz"
+tencent_cam_key = "QmuARhxBKNRyVx9ByYyE5lFbnlaqW5Ts"
 
 # huawei
 huawei_access_key_id = ""
